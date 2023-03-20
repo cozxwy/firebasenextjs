@@ -8,7 +8,8 @@
   "dependencies": {
     "@firebase/app-types": "^0.8.1",
     "@types/react": "18.0.25",
-    "firebase-admin": "11.3.0",
+    "create-next-app": "^13.2.4",
+    "firebase-admin": "^11.3.0",
     "next": "13.0.4",
     "react": "18.2.0",
     "react-dom": "18.2.0",
@@ -20,5 +21,8 @@
     "singleQuote": true,
     "tabWidth": 2,
     "trailingComma": "none"
+  },
+  "devDependencies": {
+    "@types/node": "^18.15.3"
   }
 }
